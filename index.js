@@ -20,10 +20,10 @@ return --n;
 }
 function makeInt(n) {
 Number = parseInt(n , 10);  // NaN
-return n;
+return Number;
   
 }
 function preserveDecimal(n) {
-  parseFloat('n' , 10);  //NaN
+ Number  parseFloat('n' , 10);  //NaN
   return NaN;
 }
