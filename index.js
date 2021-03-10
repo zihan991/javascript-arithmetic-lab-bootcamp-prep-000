@@ -24,6 +24,6 @@ return Number;
   
 }
 function preserveDecimal(n) {
- Number  parseFloat('n' , 10);  //NaN
+ Number = parseFloat(n , 10);  //NaN
   return NaN;
 }
