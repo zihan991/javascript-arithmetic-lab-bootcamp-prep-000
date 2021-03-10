@@ -19,7 +19,7 @@ function decrement(n) {
 return --n;
 }
 function makeInt(n) {
-parseInt(n , 10);  // NaN
+Number = parseInt(n , 10);  // NaN
 return n;
   
 }
